@@ -14,14 +14,14 @@ Q1.)Find out the mail servers of the following domain
 Q2.) Find the locations, where these email servers are hosted
 
 	Location of mail server's of ibm.com domain
-		Mail server					| country					| city	
-	   +----------------------------+---------------------------+----------------------+
-		mx0b-001b2d01.pphosted.com  | United States of America  | Sunnyvale- California
-		mx0a-001b2d01.pphosted.com  | United States of America  | Sunnyvale- California
+		Mail server			| country              	    | city	
+	   +------------------------------------+---------------------------+----------------------+
+		mx0b-001b2d01.pphosted.com  	| United States of America  | Sunnyvale- California
+		mx0a-001b2d01.pphosted.com  	| United States of America  | Sunnyvale- California
 
 	Location of mail server of wipro.com domain
-		Mail server					          | country	   | city	
-	   +--------------------------------------+------------+-----------------------------+
+		Mail server		              | country	   | city	
+	   +------------------------------------------+------------+-----------------------------+
 		wipro-com.mail.protection.outlook.com | Hong Kong  | Central and Western District 
 
 
